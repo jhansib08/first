@@ -4,3 +4,12 @@ welcome to git Hub
 
 we use python, django in this
 
+django follows MVT architecture
+
+M-models
+
+V-views
+
+T-templates
+
+
